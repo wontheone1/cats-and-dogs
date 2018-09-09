@@ -1,4 +1,6 @@
 *.jpg
 *.iml
 .idea/
-
+.nrepl-port
+*.png
+target/
